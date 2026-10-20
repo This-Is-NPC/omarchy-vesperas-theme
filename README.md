@@ -9,7 +9,7 @@ Seen from inside a dark church on a rainy evening, an angel in the glass lowers 
 ## Install
 
 ```bash
-omarchy theme install https://github.com/This-Is-NPC/theme-vesperas
+omarchy theme install https://github.com/This-Is-NPC/omarchy-vesperas-theme
 ```
 
 ## Wallpapers
