@@ -43,7 +43,7 @@ Every text color reaches at least 4.5:1 contrast against the background. The acc
 
 ## Translucent windows
 
-The theme ships a `hyprland.lua` with translucent, blurred windows so the glass shows through. Omarchy does not load `.lua` files from themes installed with `omarchy theme install`, so after installing you get the colors and wallpapers but opaque windows.
+The theme was designed with translucent, blurred windows so the glass shows through. Omarchy does not load `.lua` files from themes installed with `omarchy theme install`, so the full Hyprland config is kept as reference in `hyprland.lua.example`, and after installing you get the colors and wallpapers but opaque windows.
 
 To get the translucent look, add this to `~/.config/hypr/looknfeel.lua`:
 
